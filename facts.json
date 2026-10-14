@@ -1,0 +1,95 @@
+{
+  "name": "COLONIZED",
+  "nameNote": "Always written in capitals.",
+  "alternateName": ["COLONIZED game", "COLONIZED: The Game", "COLONIZED survival MMO", "COLONIZED MMORPG", "COLONIZED video game"],
+  "factsAsOf": "2026-10-14",
+  "canonicalSource": "https://colonized.work/facts/",
+  "description": {
+    "en": "COLONIZED is a space survival MMORPG for PC, built in Unreal Engine 5: one persistent online universe, planets with atmosphere and ships you can walk through.",
+    "es": "COLONIZED es un MMORPG de supervivencia espacial para PC, hecho con Unreal Engine 5: un universo online persistente, planetas con atmósfera y naves que se recorren por dentro."
+  },
+  "status": {
+    "en": "In development. Applications for the closed alpha are open at colonized.work; the alpha pre-release is planned for early 2027.",
+    "es": "En desarrollo. Las solicitudes para la alfa cerrada están abiertas en colonized.work; la pre-release de la alfa está prevista para principios de 2027."
+  },
+  "setting": {
+    "en": "Year 47 E.A. In the Aurin system of the Parhelion galaxy, two factions born from the same colony fleet, the Zenith and the Nadir, keep a cold peace that is starting to crack.",
+    "es": "Año 47 E.A. En el sistema Aurin de la galaxia Parhelion, dos facciones nacidas de la misma flota colonizadora, los Cenit y los Nadir, sostienen una paz fría que empieza a agrietarse."
+  },
+  "genre": "Space survival MMORPG with realistic space simulation",
+  "platform": "PC, through Steam (the store page is not public yet)",
+  "engine": "Unreal Engine 5 (version 5.8 in the current build)",
+  "createdBy": "vanguille, an independent creator based in Spain",
+  "closedAlpha": {
+    "applications": "open",
+    "applyAt": "https://colonized.work/alpha/",
+    "preRelease": "early 2027",
+    "participation": "free of charge; 18 or older; one place per person",
+    "terms": "https://colonized.work/legal/alpha/",
+    "keys": "sent in waves; each friend who completes an application moves you 10 places up the list"
+  },
+  "notAnnounced": [
+    "Release date",
+    "Price and business model, including whether anything will be sold in the game",
+    "System requirements",
+    "Languages of the game",
+    "Platforms other than PC",
+    "Server regions and players per server",
+    "Public Steam store page",
+    "Name of the studio"
+  ],
+  "confirmedInTheGame": [
+    "One persistent online universe on dedicated servers",
+    "Planets with atmosphere, and spherical worlds you walk on",
+    "Ships you can walk through, inside and out",
+    "Survival",
+    "Base building",
+    "Crafting",
+    "Combat in first and third person",
+    "Fifteen worlds generated from their lore (four planets, ten moons and a captured asteroid), with terrain from real elevation data and physics and weather of their own; under visual review",
+    "Shots resolved on the server with lag compensation",
+    "Reputation with the five Global Guilds",
+    "A choice of side, the Zenith or the Nadir, when you enlist; it is permanent on the server"
+  ],
+  "ships": {
+    "note": "Seven ships from three manufacturers. Specs subject to change during the alpha. Images of these ships are renders of the models, not in-game captures.",
+    "list": [
+      { "name": "William's XASTER X", "manufacturer": "William's", "role": "Single-seat escort snub", "lengthM": 7.14, "massT": 4.2 },
+      { "name": "William's XASTER S", "manufacturer": "William's", "role": "Single-seat light fighter", "lengthM": 12.48, "massT": 13.5 },
+      { "name": "William's XASTER M", "manufacturer": "William's", "role": "Habitable heavy fighter", "lengthM": 14.88, "massT": 19 },
+      { "name": "William's XASTER L", "manufacturer": "William's", "role": "Habitable patrol ship", "lengthM": 18.03, "massT": 29 },
+      { "name": "William's XASTER XL", "manufacturer": "William's", "role": "Heavy patrol ship with a gunner", "lengthM": 23.01, "massT": 52 },
+      { "name": "CHALLENGER ALPHA M", "manufacturer": "Challenger", "role": "Industrial and field cargo dropship", "lengthM": 21.02, "massT": null },
+      { "name": "MVG RVN-1000T Revenant", "manufacturer": "MVG Aerospace", "role": "Cargo dropship and gunship", "lengthM": 54.48, "massT": null }
+    ]
+  },
+  "technology": {
+    "rendering": "Nanite, Lumen (software tracing by default) and Virtual Shadow Maps",
+    "upscaling": "Development build: NVIDIA DLSS package integrated (Super Resolution and DLAA, Frame Generation and Reflex on compatible GPUs; Unreal's TSR on other cards). Final options not announced",
+    "servers": "Dedicated Linux servers with a persistent database",
+    "worlds": "A G1V star, four planets with radii from 6,000 to 6,400 km, ten moons and one captured asteroid; distances compressed to fit the engine's world"
+  },
+  "novel": "The Aurin Chronicle, a serialised novel set in the game's universe; Book One complete (26 pieces), free to read",
+  "links": {
+    "website": "https://colonized.work/",
+    "websiteEs": "https://colonized.work/es/",
+    "closedAlpha": "https://colonized.work/alpha/",
+    "facts": "https://colonized.work/facts/",
+    "factsEs": "https://colonized.work/es/facts/",
+    "aurinSystemData": "https://colonized.work/data/aurin-system/",
+    "aurinChronicle": "https://colonized.work/codex/chronicle/",
+    "pressPage": "https://colonized.work/press/",
+    "discord": "https://discord.gg/NrZw8dqpCD"
+  },
+  "contact": "admin@colonized.work",
+  "images": [
+    { "file": "images/colonized-xaster-xl-orbit.jpg", "width": 1920, "height": 1080, "caption": "Render of the William's XASTER XL heavy patrol ship in orbit, seen from the front in three-quarter view." },
+    { "file": "images/colonized-xaster-xl-engines.jpg", "width": 1920, "height": 1080, "caption": "Render of the William's XASTER XL from behind, engines lit, over a planet's night side." },
+    { "file": "images/colonized-xaster-m-and-s-formation.jpg", "width": 1920, "height": 1080, "caption": "Render of a William's XASTER M heavy fighter flying with two XASTER S light fighters." },
+    { "file": "images/colonized-challenger-alpha-m-orbit.jpg", "width": 1920, "height": 1080, "caption": "Render of the CHALLENGER ALPHA M cargo dropship in orbit." },
+    { "file": "images/colonized-challenger-alpha-m-landing-pad.jpg", "width": 1920, "height": 1080, "caption": "Render of the CHALLENGER ALPHA M on a landing pad at dusk, ramp down, with a moon in the sky." },
+    { "file": "images/colonized-xaster-xl-bridge.jpg", "width": 1920, "height": 1080, "caption": "Render of the bridge of the William's XASTER XL, inside the ship." }
+  ],
+  "imageCredit": "Render: COLONIZED. Renders of the ship models, not in-game captures.",
+  "license": "Editorial use permitted. See LICENSE."
+}
