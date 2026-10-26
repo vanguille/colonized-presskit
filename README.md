@@ -2,11 +2,11 @@
 
 **COLONIZED is a space survival MMORPG for PC, built in Unreal Engine 5: one persistent online universe, planets with atmosphere and ships you can walk through.**
 
-Closed alpha pre-release in early 2027. Apply for a key at [colonized.work](https://colonized.work/alpha/).
+Closed alpha first waves in winter 2026-2027. Apply for a key at [colonized.work](https://colonized.work/alpha/).
 
 This repository is the public press kit for COLONIZED: verified facts, six renders and the terms for using them. The
 always-current version of every fact is [COLONIZED in facts](https://colonized.work/facts/) on the official website; if
-something is not there or here, it has not been announced. Facts as of **14 October 2026**.
+something is not there or here, it has not been announced. Facts as of **26 October 2026**.
 
 [Español más abajo](#colonized--kit-de-prensa-en-español).
 
@@ -16,7 +16,7 @@ COLONIZED is a space survival MMORPG for PC: one persistent online universe on d
 craft, build and fight in first or third person. It is set in Year 47 E.A. In the Aurin system of the Parhelion galaxy,
 two factions born from the same colony fleet, the Zenith and the Nadir, keep a cold peace that is starting to crack.
 
-It is in development. Applications for the closed alpha are open, and the alpha pre-release is planned for early 2027.
+It is in development. Applications for the closed alpha are open, and the first alpha wave is planned for winter 2026-2027.
 
 ## Verified facts
 
@@ -27,15 +27,17 @@ It is in development. Applications for the closed alpha are open, and the alpha 
 | Platform | PC, through Steam (the store page is not public yet) |
 | Engine | Unreal Engine 5 (version 5.8 in the current build) |
 | Status | In development; closed alpha applications open |
-| Closed alpha pre-release | Early 2027 |
+| Closed alpha first waves | Winter 2026-2027 |
 | Alpha participation | Free of charge; 18 or older; one place per person ([alpha terms](https://colonized.work/legal/alpha/)) |
 | Release date | Not announced |
 | Price and business model | Not announced |
-| Created by | vanguille, an independent creator based in Spain |
+| Created by | [Vanguille](https://colonized.work/vanguille/), sole creator and independent developer based in Spain, with more than ten years on the project |
+| Use of AI | Not a game made with AI: one person makes it, with AI as a tool; used very little in the game (some sounds and some art or icons) |
+| Server scale (design target) | Designed for around 1,000 players on a modest server; a design target, not a measured result (no public load test yet) |
 | Ships shown | Seven, from three manufacturers, from 7.14 m to about 54.5 m long |
 | Setting | Year 47 E.A., the Aurin system of the Parhelion galaxy |
-| Novel | The Aurin Chronicle, a serialised novel set in the game's universe; Book One complete (26 pieces), free to read |
-| Website | colonized.work, in English and Spanish |
+| Novel | The Aurin Chronicle, a serialised novel set in the game's universe; Book One complete (a prologue, 13 chapters and an epilogue), free to read |
+| Website | colonized.work, in English, Spanish, Portuguese (Brazil), German and French |
 | Official community | [Discord](https://discord.gg/NrZw8dqpCD) |
 | Contact | admin@colonized.work |
 
@@ -46,9 +48,19 @@ real elevation data and physics and weather of their own, under visual review; s
 compensation; reputation with the five Global Guilds; and a permanent choice of side, the Zenith or the Nadir.
 
 **Not announced yet:** release date; price and business model; system requirements; languages of the game; platforms
-other than PC; server regions and players per server; the public Steam store page; the name of the studio.
+other than PC; server regions and the number of players per server at launch; the public Steam store page; the name of the studio.
 
 The same facts, machine-readable, are in [`facts.json`](facts.json).
+
+## Who is behind COLONIZED
+
+**Vanguille is the sole creator of COLONIZED, the space survival MMORPG for PC built in Unreal Engine 5. He has worked on the project for more than ten years and has built the game, its servers, this website and its community on his own, with AI only as a tool.**
+
+The strategy was to build the foundations first: a server system of its own and a very optimised client, with content after that. That is why the project worked in the shadows for years. The architecture is designed for around 1,000 players on a modest server. It is a design target, not a measured result: there is no public load test yet.
+
+COLONIZED is not a game made with AI: one person makes it, Vanguille, with AI as a tool. In the game it has been used in very specific places and very little (some sounds and some art or icons); where it is used most is in automating the information around the project: roadmap, social networks and content generation.
+
+Full profile: [colonized.work/vanguille](https://colonized.work/vanguille/). Machine-readable: `creator` in [`facts.json`](facts.json).
 
 ## Links
 
@@ -81,7 +93,7 @@ Editorial use is permitted: news, previews, articles, videos and streams about C
 possible, link to [colonized.work](https://colonized.work/). The facts can be quoted freely; please link to
 [COLONIZED in facts](https://colonized.work/facts/) so readers see the latest version. Full terms in [`LICENSE`](LICENSE).
 
-How to cite: *COLONIZED — Fact sheet. https://colonized.work/facts/ (facts as of 14 October 2026).*
+How to cite: *COLONIZED — Fact sheet. https://colonized.work/facts/ (facts as of 26 October 2026).*
 
 ---
 
@@ -89,19 +101,19 @@ How to cite: *COLONIZED — Fact sheet. https://colonized.work/facts/ (facts as 
 
 **COLONIZED es un MMORPG de supervivencia espacial para PC, hecho con Unreal Engine 5: un universo online persistente, planetas con atmósfera y naves que se recorren por dentro.**
 
-Pre-release de la alfa cerrada a principios de 2027. Solicita tu clave en [colonized.work](https://colonized.work/es/alpha/).
+Primeras oleadas de la alfa cerrada en el invierno 2026-2027. Solicita tu clave en [colonized.work](https://colonized.work/es/alpha/).
 
 Este repositorio es el kit de prensa público de COLONIZED: datos comprobados, seis renders y las condiciones para
 usarlos. La versión siempre al día de cada dato es [COLONIZED en datos](https://colonized.work/es/facts/), en la web
-oficial; si algo no está allí ni aquí, no se ha anunciado. Datos a **14 de octubre de 2026**.
+oficial; si algo no está allí ni aquí, no se ha anunciado. Datos a **26 de octubre de 2026**.
 
 ### Qué es
 
 Un MMORPG de supervivencia espacial para PC: un único universo online persistente en servidores dedicados, donde
 sobrevives, fabricas, construyes y peleas en primera o tercera persona. Año 47 E.A. En el sistema Aurin de la galaxia
 Parhelion, dos facciones nacidas de la misma flota colonizadora, los Cenit y los Nadir, sostienen una paz fría que
-empieza a agrietarse. Está en desarrollo: las solicitudes para la alfa cerrada están abiertas y la pre-release de la alfa
-está prevista para principios de 2027.
+empieza a agrietarse. Está en desarrollo: las solicitudes para la alfa cerrada están abiertas y la primera oleada de la alfa
+está prevista para el invierno 2026-2027.
 
 ### Datos comprobados
 
@@ -112,14 +124,16 @@ está prevista para principios de 2027.
 | Plataforma | PC, a través de Steam (la página de la tienda aún no es pública) |
 | Motor | Unreal Engine 5 (versión 5.8 en la build actual) |
 | Estado | En desarrollo; solicitudes abiertas para la alfa cerrada |
-| Pre-release de la alfa cerrada | Principios de 2027 |
+| Primeras oleadas de la alfa cerrada | Invierno 2026-2027 |
 | Participación en la alfa | Gratuita; desde 18 años; una plaza por persona ([términos](https://colonized.work/es/legal/alpha/)) |
 | Fecha de lanzamiento | Sin anunciar |
 | Precio y modelo de negocio | Sin anunciar |
-| Creado por | vanguille, creador independiente desde España |
+| Creado por | [Vanguille](https://colonized.work/es/vanguille/), creador único y desarrollador independiente desde España, con más de diez años en el proyecto |
+| Uso de IA | No es un juego hecho con IA: lo hace una persona, con la IA como herramienta; se usa muy poco en el juego (algunos sonidos y algo de arte o iconos) |
+| Escala del servidor (objetivo de diseño) | Diseñado para unos 1.000 jugadores en un servidor modesto; es un objetivo de diseño, no un resultado medido (aún no hay prueba de carga pública) |
 | Naves presentadas | Siete, de tres fabricantes, de 7,14 m a unos 54,5 m de largo |
 | Ambientación | Año 47 E.A., sistema Aurin de la galaxia Parhelion |
-| Novela | Crónica de Aurin, novela por entregas ambientada en el universo del juego; Tomo I completo (26 piezas), gratuita |
+| Novela | Crónica de Aurin, novela por entregas ambientada en el universo del juego; Tomo I completo (un prólogo, 13 capítulos y un epílogo), gratuita |
 | Comunidad oficial | [Discord](https://discord.gg/NrZw8dqpCD) |
 | Contacto | admin@colonized.work |
 
