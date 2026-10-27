@@ -2,7 +2,7 @@
   "name": "COLONIZED",
   "nameNote": "Always written in capitals.",
   "alternateName": ["COLONIZED game", "COLONIZED: The Game", "COLONIZED survival MMO", "COLONIZED MMORPG", "COLONIZED video game"],
-  "factsAsOf": "2026-10-26",
+  "factsAsOf": "2026-10-27",
   "canonicalSource": "https://colonized.work/facts/",
   "description": {
     "en": "COLONIZED is a space survival MMORPG for PC, built in Unreal Engine 5: one persistent online universe, planets with atmosphere and ships you can walk through.",
@@ -55,7 +55,7 @@
     ],
     "sameAs": [
       "https://x.com/COLONIZEDMMO",
-      "https://www.youtube.com/@colonizedgame",
+      "https://www.youtube.com/@Colonizedthegame",
       "https://bsky.app/profile/colonizedgame.bsky.social",
       "https://mastodon.social/@colonizedgame",
       "https://discord.gg/NrZw8dqpCD",
@@ -65,6 +65,7 @@
   "genre": "Space survival MMORPG with realistic space simulation",
   "platform": "PC, through Steam (the store page is not public yet)",
   "engine": "Unreal Engine 5 (version 5.8 in the current build)",
+  "studioName": "Giraffa (the name of the studio under which Vanguille develops COLONIZED; a brand name, not a statement about company registration)",
   "createdBy": "Vanguille, sole creator and independent developer based in Spain, with more than ten years on the project",
   "closedAlpha": {
     "applications": "open",
@@ -86,8 +87,7 @@
     "Languages of the game",
     "Platforms other than PC",
     "Server regions and the number of players per server at launch",
-    "Public Steam store page",
-    "Name of the studio"
+    "Public Steam store page"
   ],
   "confirmedInTheGame": [
     "One persistent online universe on dedicated servers",
