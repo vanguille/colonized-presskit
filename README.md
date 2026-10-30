@@ -6,7 +6,7 @@ Closed alpha first waves in winter 2026-2027. Apply for a key at [colonized.work
 
 This repository is the public press kit for COLONIZED: verified facts, six renders and the terms for using them. The
 always-current version of every fact is [COLONIZED in facts](https://colonized.work/facts/) on the official website; if
-something is not there or here, it has not been announced. Facts as of **27 October 2026**.
+something is not there or here, it has not been announced. Facts as of **30 October 2026**.
 
 [Español más abajo](#colonized--kit-de-prensa-en-español).
 
@@ -34,6 +34,7 @@ It is in development. Applications for the closed alpha are open, and the first 
 | Created by | [Vanguille](https://colonized.work/vanguille/), sole creator and independent developer based in Spain, with more than ten years on the project |
 | Studio name | Giraffa (the name of the studio under which Vanguille develops COLONIZED; a brand name, not a statement about company registration) |
 | Use of AI | Not a game made with AI: one person makes it, with AI as a tool; used very little in the game (some sounds and some art or icons) |
+| System requirements | Preliminary, being optimised: minimum 8 GB VRAM and 16 GB RAM (1080p), recommended 10 GB VRAM or more and 32 GB RAM (1440p), with a calculator ([PC requirements](https://colonized.work/system-requirements/)) |
 | Server scale (design target) | Designed for around 1,000 players on a modest server; a design target, not a measured result (no public load test yet) |
 | Ships shown | Seven, from three manufacturers, from 7.14 m to about 54.5 m long |
 | Setting | Year 47 E.A., the Aurin system of the Parhelion galaxy |
@@ -48,7 +49,7 @@ person; fifteen worlds generated from their lore (four planets, ten moons and a 
 real elevation data and physics and weather of their own, under visual review; shots resolved on the server with lag
 compensation; reputation with the five Global Guilds; and a permanent choice of side, the Zenith or the Nadir.
 
-**Not announced yet:** release date; price and business model; system requirements; languages of the game; platforms
+**Not announced yet:** release date; price and business model; languages of the game; platforms
 other than PC; server regions and the number of players per server at launch; the public Steam store page.
 
 The same facts, machine-readable, are in [`facts.json`](facts.json).
@@ -94,7 +95,7 @@ Editorial use is permitted: news, previews, articles, videos and streams about C
 possible, link to [colonized.work](https://colonized.work/). The facts can be quoted freely; please link to
 [COLONIZED in facts](https://colonized.work/facts/) so readers see the latest version. Full terms in [`LICENSE`](LICENSE).
 
-How to cite: *COLONIZED — Fact sheet. https://colonized.work/facts/ (facts as of 27 October 2026).*
+How to cite: *COLONIZED — Fact sheet. https://colonized.work/facts/ (facts as of 30 October 2026).*
 
 ---
 
@@ -106,7 +107,7 @@ Primeras oleadas de la alfa cerrada en el invierno 2026-2027. Solicita tu clave 
 
 Este repositorio es el kit de prensa público de COLONIZED: datos comprobados, seis renders y las condiciones para
 usarlos. La versión siempre al día de cada dato es [COLONIZED en datos](https://colonized.work/es/facts/), en la web
-oficial; si algo no está allí ni aquí, no se ha anunciado. Datos a **27 de octubre de 2026**.
+oficial; si algo no está allí ni aquí, no se ha anunciado. Datos a **30 de octubre de 2026**.
 
 ### Qué es
 
@@ -132,6 +133,7 @@ está prevista para el invierno 2026-2027.
 | Creado por | [Vanguille](https://colonized.work/es/vanguille/), creador único y desarrollador independiente desde España, con más de diez años en el proyecto |
 | Nombre del estudio | Giraffa (el nombre del estudio con el que Vanguille desarrolla COLONIZED; un nombre de marca, no una afirmación sobre registro de empresa) |
 | Uso de IA | No es un juego hecho con IA: lo hace una persona, con la IA como herramienta; se usa muy poco en el juego (algunos sonidos y algo de arte o iconos) |
+| Requisitos del sistema | Preliminares, en optimización: mínimo 8 GB de VRAM y 16 GB de RAM (1080p), recomendado 10 GB de VRAM o más y 32 GB de RAM (1440p), con calculadora ([requisitos de PC](https://colonized.work/es/system-requirements/)) |
 | Escala del servidor (objetivo de diseño) | Diseñado para unos 1.000 jugadores en un servidor modesto; es un objetivo de diseño, no un resultado medido (aún no hay prueba de carga pública) |
 | Naves presentadas | Siete, de tres fabricantes, de 7,14 m a unos 54,5 m de largo |
 | Ambientación | Año 47 E.A., sistema Aurin de la galaxia Parhelion |

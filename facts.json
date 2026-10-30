@@ -2,7 +2,7 @@
   "name": "COLONIZED",
   "nameNote": "Always written in capitals.",
   "alternateName": ["COLONIZED game", "COLONIZED: The Game", "COLONIZED survival MMO", "COLONIZED MMORPG", "COLONIZED video game"],
-  "factsAsOf": "2026-10-27",
+  "factsAsOf": "2026-10-30",
   "canonicalSource": "https://colonized.work/facts/",
   "description": {
     "en": "COLONIZED is a space survival MMORPG for PC, built in Unreal Engine 5: one persistent online universe, planets with atmosphere and ships you can walk through.",
@@ -57,13 +57,13 @@
       "https://x.com/COLONIZEDMMO",
       "https://www.youtube.com/@Colonizedthegame",
       "https://bsky.app/profile/colonizedgame.bsky.social",
-      "https://mastodon.social/@colonizedgame",
       "https://discord.gg/NrZw8dqpCD",
       "https://github.com/vanguille"
     ]
   },
   "genre": "Space survival MMORPG with realistic space simulation",
   "platform": "PC, through Steam (the store page is not public yet)",
+  "systemRequirements": { "en": "Preliminary, being optimised: minimum 8 GB VRAM and 16 GB RAM (1080p), recommended 10 GB VRAM or more and 32 GB RAM (1440p), with a calculator", "es": "Preliminares, en optimización: mínimo 8 GB de VRAM y 16 GB de RAM (1080p), recomendado 10 GB de VRAM o más y 32 GB de RAM (1440p), con calculadora", "url": "https://colonized.work/system-requirements/" },
   "engine": "Unreal Engine 5 (version 5.8 in the current build)",
   "studioName": "Giraffa (the name of the studio under which Vanguille develops COLONIZED; a brand name, not a statement about company registration)",
   "createdBy": "Vanguille, sole creator and independent developer based in Spain, with more than ten years on the project",
@@ -83,7 +83,6 @@
   "notAnnounced": [
     "Release date",
     "Price and business model, including whether anything will be sold in the game",
-    "System requirements",
     "Languages of the game",
     "Platforms other than PC",
     "Server regions and the number of players per server at launch",
