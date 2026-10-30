@@ -102,7 +102,7 @@
     "A choice of side, the Zenith or the Nadir, when you enlist; it is permanent on the server"
   ],
   "ships": {
-    "note": "Seven ships from three manufacturers. Specs subject to change during the alpha. Images of these ships are renders of the models, not in-game captures.",
+    "note": "Seven ships from three manufacturers. massT is the empty mass in tonnes. Specs subject to change during the alpha. Images of these ships are renders of the models, not in-game captures.",
     "list": [
       { "name": "William's XASTER X", "manufacturer": "William's", "role": "Single-seat escort snub", "lengthM": 7.14, "massT": 4.2 },
       { "name": "William's XASTER S", "manufacturer": "William's", "role": "Single-seat light fighter", "lengthM": 12.48, "massT": 13.5 },
